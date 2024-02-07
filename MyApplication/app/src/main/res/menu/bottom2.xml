@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/ic_camera_black_24dp"
+        android:title="camera"/>
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/ic_insert_photo_black_24dp"
+        android:title="gallery"/>
+
+</menu>
